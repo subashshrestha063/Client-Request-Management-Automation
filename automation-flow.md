@@ -7,6 +7,7 @@
 ## Scenario 2 – Status Tracking
 - Detects manual status change
 - Updates Last Status Update column
+- Notification: Email + Discord
 
 ## Scenario 3 – Reminder Automation
 - Runs every X hours
