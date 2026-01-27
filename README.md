@@ -34,3 +34,15 @@ using Make.com with Google Forms, Google Sheets, Email, and Discord.
 - Reduces manual follow-ups
 - Prevents missed leads
 - Improves response time
+
+## 📸 Automation Scenarios Preview
+### Scenario 1: Client Submission & Initial Handling
+![Scenario 1](screenshots/scenario1.png)
+
+### Scenario 2: Status Change Automation
+![Scenario 2](screenshots/scenario2.png)
+
+### Scenario 3: Reminder Automation
+![Scenario 3](screenshots/scenario3.png)
+
+
