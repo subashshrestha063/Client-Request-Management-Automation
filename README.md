@@ -1,5 +1,5 @@
 # Client-Request-Management-Automation
-Built for Prime Flow Solutions — a freelancing and automation service agency — to automate client requests, status tracking, and follow-ups.
+A self-built project simulating a freelancing and automation agency workflow.
 
 ## Overview
 This project automates client intake, status tracking, and follow-ups
