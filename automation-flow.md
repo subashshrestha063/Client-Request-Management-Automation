@@ -1,7 +1,7 @@
 ## Scenario 1 – Client Intake
 - Trigger: New Google Form response
 - Action: Add row to Google Sheet
-- Logic: Budget-based status assignment
+- Logic: Budget-based status assignment (Auto-Rejected for less budget)
 - Notification: Email + Discord
 
 ## Scenario 2 – Status Tracking
