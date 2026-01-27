@@ -37,12 +37,12 @@ using Make.com with Google Forms, Google Sheets, Email, and Discord.
 
 ## 📸 Automation Scenarios Preview
 ### Scenario 1: Client Submission & Initial Handling
-![Scenario 1](screenshots/scenario1.png)
+<img src="screenshots/scenario1.png" width="700">
 
 ### Scenario 2: Status Change Automation
-![Scenario 2](screenshots/scenario2.png)
+<img src="screenshots/scenario2.png" width="700">
 
 ### Scenario 3: Reminder Automation
-![Scenario 3](screenshots/scenario3.png)
+<img src="screenshots/scenario3.png" width="700">
 
 
