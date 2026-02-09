@@ -24,7 +24,7 @@ for managing client intake, project lifecycle, reminders, and analytics.
 
 Each scenario folder contains:
 - A **dedicated README** describing its purpose, logic, and outputs
-- A matching **Make.com blueprint JSON** (in the [`/blueprints`](blueprints/)  folder)
+- A matching **Make.com blueprint JSON** (in the [blueprints](blueprints/)  folder)
 - Relevant **screenshots** (in the [screenshots](screenshots/) folder)
 
 To understand a scenario fully:
