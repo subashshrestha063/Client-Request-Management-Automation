@@ -54,6 +54,8 @@ The Make.com blueprint for this scenario is available here:
 
 Import this file into Make.com to explore or replicate the automation logic.
 
+---
+
 ## Screenshots
 See the [screenshots/scenario-2](/screenshots/scenario-2) folder for:
 - Scenario routing logic
