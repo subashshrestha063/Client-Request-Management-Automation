@@ -47,7 +47,7 @@ The scenario continuously monitors the request sheet for status changes.
 - Discord (internal alerts)
 
 ---
-## 🔧 Blueprint
+## Blueprint
 
 The Make.com blueprint for this scenario is available here:
 - [blueprints/scenario-2.json](/blueprints/scenario-2.json)
