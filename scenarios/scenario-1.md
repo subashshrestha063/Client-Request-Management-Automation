@@ -51,7 +51,7 @@ When a client submits a request, the scenario performs a series of validations:
 ---
 
 ## Screenshots
-See the [`screenshots/scenario-1/`](scenario-1/) folder for:
+See the [screenshots/scenario-1](/screenshots/scenario-1) folder for:
 - Scenario flow design
 - Auto-rejection email sample
 - Google Sheets data entry
