@@ -1,6 +1,7 @@
-# 🚀 Prime Flow Solutions – Client Request & Service Analytics Automation
+# 🚀 Prime Flow Solutions – Client Request Management Automation
 
 ![Make.com](https://img.shields.io/badge/Platform-Make.com-purple?style=flat&logo=make)
+![Google Forms](https://img.shields.io/badge/Input-Google%20Forms-blue?style=flat&logo=google-forms)
 ![Google Sheets](https://img.shields.io/badge/Database-Google%20Sheets-green?style=flat&logo=google-sheets)
 ![Discord](https://img.shields.io/badge/Notifications-Discord-5865F2?style=flat&logo=discord)
 ![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)
@@ -167,3 +168,18 @@ Each row represents a single client request, enabling reliable aggregation and r
 │   └── scenario-4.json
 └── data/
     └── README.md
+```
+## 📝 Notes
+
+This project simulates a real freelancing or automation agency workflow.  
+It focuses on **process reliability, response time, and operational clarity** rather
+than frontend or UI design.
+
+---
+
+## 👤 Author
+
+**Subash Shrestha**  
+Automation & Workflow Design (Make)
+
+⭐ If you find this project useful, feel free to explore the  [`scenarios`](scenarios/) for deeper insights.
