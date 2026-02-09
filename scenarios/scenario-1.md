@@ -49,6 +49,14 @@ When a client submits a request, the scenario performs a series of validations:
 - Gmail (auto-rejection emails)
 
 ---
+## Blueprint
+
+The Make.com blueprint for this scenario is available here:
+- [blueprints/scenario-1.json](/blueprints/scenario-1.json)
+
+Import this file into Make.com to explore or replicate the automation logic.
+
+---
 
 ## Screenshots
 See the [screenshots/scenario-1](/screenshots/scenario-1) folder for:
