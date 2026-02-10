@@ -11,6 +11,7 @@ This ensures the team does not waste time reviewing low-quality or non-viable re
 
 ## Trigger
 - Google Form submission (new client request)
+- Check Out Google form -> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSfLnTBoo9y-MudFf1r0ImeoAzTGrTDl0ogmbiWmIVKH2doDlA/viewform?usp=header">Prime Flow Solutions</a>
 
 ---
 
@@ -33,7 +34,12 @@ When a client submits a request, the scenario performs a series of validations:
    - Initial status is set to `New`
    - Timestamp is recorded for lifecycle tracking
 
----
+   ---
+
+### Scenario Design
+<img src="/screenshots/scenario-1/Flow_scenario-1.png" width="850">
+
+
 
 ## Output
 - Accepted requests stored in Google Sheets
@@ -41,6 +47,24 @@ When a client submits a request, the scenario performs a series of validations:
 - Clean, filtered client intake pipeline
 
 ---
+## Discord Notifcations
+
+## New Request
+<img src="/screenshots/scenario-1/new_request_discord_alert.png" width="600">
+
+## Auto-Rejected (Low Budget )
+<img src="/screenshots/scenario-1/autorejected_discord_alert.png" width="600">
+
+## Email Notifcations
+
+## New Request
+<img src="/screenshots/scenario-1/new_request_email_alert.png" width="600">
+
+## Auto-Rejected (Low Budget )
+<img src="/screenshots/scenario-1/auto_rejected_email_alert.png" width="600">
+
+## Duplicate Email (Already Registerd)
+<img src="/screenshots/scenario-1/duplicate_email_alert.png" width="600">
 
 ## Platform & Components
 - Google Forms (client submission)
@@ -52,14 +76,14 @@ When a client submits a request, the scenario performs a series of validations:
 ## Blueprint
 
 The Make.com blueprint for this scenario is available here:
-- [blueprints/scenario-1.json](/blueprints/scenario-1.json)
+- [View Blueprint ](/blueprints/scenario-1.json)
 
 Import this file into Make.com to explore or replicate the automation logic.
 
 ---
 
 ## Screenshots
-See the [screenshots/scenario-1](/screenshots/scenario-1) folder for:
+See the [Screenshots](/screenshots/scenario-1) for:
 - Scenario flow design
 - Auto-rejection email sample
 - Google Sheets data entry
