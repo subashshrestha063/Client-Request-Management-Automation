@@ -91,6 +91,10 @@ Each scenario is documented individually in the [`/scenarios`](scenarios/) folde
   - Service-wise demand (Web Design, Automation, Branding, etc.)
 
 ---
+### Screenshots
+See visual references in:  
+[`Screenshots`](/screenshots)
+
 
 ## 📊 Data Design (Google Sheets)
 
@@ -195,4 +199,4 @@ than frontend or UI design.
 **Subash Shrestha**  
 Automation & Workflow Design (Make)
 
-⭐ If you find this project useful, feel free to explore the  [`scenarios`](scenarios/) for deeper insights.
+⭐ If you find this project useful, feel free to explore the  [`scenarios`](scenarios/) and [`screenshots`](screenshots/) for deeper insights.
