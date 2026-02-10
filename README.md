@@ -94,7 +94,7 @@ Each scenario is documented individually in the [`/scenarios`](scenarios/) folde
 
 ## 📊 Data Design (Google Sheets)
 
-### Core Column
+### Core Column ( Client_Requests)
 - Contact Date
 - Client Name
 - Email
@@ -110,14 +110,27 @@ Each scenario is documented individually in the [`/scenarios`](scenarios/) folde
 
 Each row represents a single client request, enabling reliable aggregation and reporting.
 
+### Core Column (Service Analytics)
+- Date
+- Service Required
+- Number of Requests
+
+---
+
+## 📊 Data Templates
+The Google Sheets structure used by this automation is documented here:
+- [Data Templates](data/)
+  
 ---
 
 ## 🚀 How to Run
 
-1. Create scenarios in **Make.com**
-2. Import JSON blueprints from the [`/blueprints`](blueprints/) folder
-3. Create Google Sheets using the documented structure
-4. Reconnect your Google, Gmail, and Discord accounts
+1. Open the Google Sheets template from the [`/data`](data/) folder.
+2. Click **File → Make a copy** and save it to your Google Drive.
+3. Create scenarios in **Make.com**
+4. Import JSON blueprints from the [`/blueprints`](blueprints/) folder
+5. Create Google Sheets using the documented structure
+6. Reconnect your Google, Gmail, and Discord accounts
 
 > ⚠️ **Note:**  
 > Blueprints are provided for learning and reference.  
