@@ -91,10 +91,12 @@ Each scenario is documented individually in the [`/scenarios`](scenarios/) folde
   - Service-wise demand (Web Design, Automation, Branding, etc.)
 
 ---
-### Screenshots
-See visual references in:  
-[`Screenshots`](/screenshots)
+## 🖼️ Screenshots
+See visual references of each scenario in:  
 
+- [`Screenshots`](/screenshots)
+
+---
 
 ## 📊 Data Design (Google Sheets)
 
