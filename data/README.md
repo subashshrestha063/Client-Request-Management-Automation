@@ -13,7 +13,7 @@ reminders, and analytics.
 
 👉 **Access the Google Sheets template:**  
 
-🔗 [Click here to open the template](https://docs.google.com/spreadsheets/d/1MzJxkOjZNQ-KHV__wnJhCYHxIjk4EevQDfKTaETV6uo/edit?usp=sharing)**
+🔗 **[Click here to open the template](https://docs.google.com/spreadsheets/d/1MzJxkOjZNQ-KHV__wnJhCYHxIjk4EevQDfKTaETV6uo/edit?usp=sharing)**
 
 
 > ⚠️ Important:  
