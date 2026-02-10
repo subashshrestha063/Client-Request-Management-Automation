@@ -33,6 +33,9 @@ The scenario scans the request sheet at scheduled intervals.
    - Optional tagging of responsible team
 
 ---
+### Scenario Design
+<img src="/screenshots/scenario-3/Flow_scenario-3.png" width="850">
+
 
 ## Output
 - Timely reminders for unattended requests
@@ -40,6 +43,11 @@ The scenario scans the request sheet at scheduled intervals.
 - Improved internal accountability
 
 ---
+
+## Discord Notifcation
+
+## Reminder
+<img src="/screenshots/scenario-3/reminder_discord.png" width="600">
 
 ## Platform & Components
 - Google Sheets (timestamp tracking)
@@ -50,14 +58,14 @@ The scenario scans the request sheet at scheduled intervals.
 ## Blueprint
 
 The Make.com blueprint for this scenario is available here:
-- [blueprints/scenario-3.json](/blueprints/scenario-3.json)
+- [View Blueprints](/blueprints/scenario-3.json)
 
 Import this file into Make.com to explore or replicate the automation logic.
 
 ---
 
 ## Screenshots
-See the [screenshots/scenario-3](/screenshots/scenario-3) folder for:
+See the [screenshots](/screenshots/scenario-3) folder for:
 - Scheduled scenario configuration
 - Reminder logic filters
 - Discord reminder messages
