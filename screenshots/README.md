@@ -7,7 +7,6 @@ Each subfolder corresponds to a specific scenario and includes screenshots of:
 - Make.com scenario flows
 - Discord notifications
 - Email notifications
-- Google Sheets updates (where applicable)
 
 These images help visualize how each automation behaves in real usage.
 
