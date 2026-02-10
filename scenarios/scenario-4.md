@@ -36,6 +36,9 @@ The scenario aggregates request data for the current day.
    - Enables historical trend analysis
 
 ---
+### Scenario Design
+<img src="/screenshots/scenario-4/Flow_scenario-4.png" width="850">
+
 
 ## Output
 - Daily service demand summary
@@ -43,6 +46,11 @@ The scenario aggregates request data for the current day.
 - Clean dataset for reporting or dashboards
 
 ---
+## Discord Notifcations
+
+## Daily Service Summary
+<img src="/screenshots/scenario-4/daily_service_discord.png" width="600">
+
 
 ## Platform & Components
 - Google Sheets (data source & analytics storage)
@@ -53,14 +61,14 @@ The scenario aggregates request data for the current day.
 ## Blueprint
 
 The Make.com blueprint for this scenario is available here:
-- [blueprints/scenario-4.json](/blueprints/scenario-4.json)
+- [View Blurprints](/blueprints/scenario-4.json)
 
 Import this file into Make.com to explore or replicate the automation logic.
 
 ---
 
 ## Screenshots
-See the [screenshots/scenario-4](/screenshots/scenario-4) folder for:
+See the [Screenshots ](/screenshots/scenario-4) folder for:
 - Aggregation logic
 - Daily analytics output
 - Google Sheets summary view
