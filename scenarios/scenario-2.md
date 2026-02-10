@@ -33,12 +33,37 @@ The scenario continuously monitors the request sheet for status changes.
 
 ---
 
+### Scenario Design
+<img src="/screenshots/scenario-2/Flow_scenario-2.png" width="850">
+
 ## Output
 - Automated client email notifications
 - Internal Discord notifications
 - Accurate lifecycle tracking without manual follow-ups
 
 ---
+## Discord Notifcations
+
+## Approved
+<img src="/screenshots/scenario-2/approved_discord_alert.png" width="600">
+
+## In-Process
+<img src="/screenshots/scenario-2/in_process_discord_alert.png" width="600">
+
+## Completed
+<img src="/screenshots/scenario-2/completed_discord_alert.png" width="600">
+
+## Email Notifcations
+
+## Approved
+<img src="/screenshots/scenario-2/approved_email_alert.png" width="600">
+
+## In-Process
+<img src="/screenshots/scenario-2/in_process_email_alert.png" width="600">
+
+## Completed
+<img src="/screenshots/scenario-2/completed_email_alert.png" width="600">
+
 
 ## Platform & Components
 - Google Sheets (status tracking)
@@ -50,14 +75,14 @@ The scenario continuously monitors the request sheet for status changes.
 ## Blueprint
 
 The Make.com blueprint for this scenario is available here:
-- [blueprints/scenario-2.json](/blueprints/scenario-2.json)
+- [View Blueprints](/blueprints/scenario-2.json)
 
 Import this file into Make.com to explore or replicate the automation logic.
 
 ---
 
 ## Screenshots
-See the [screenshots/scenario-2](/screenshots/scenario-2) folder for:
+See the [screenshots](/screenshots/scenario-2) folder for:
 - Scenario routing logic
 - Client status email samples
 - Discord lifecycle notifications
